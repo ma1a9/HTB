@@ -1,6 +1,5 @@
 #### nmap
-![[Pasted image 20230825054645.png]]
-
+![Pasted image 20230825054645.png](https://github.com/ma1a9/HTB/blob/main/HTB/Pasted%20image%2020230825054645.png?raw=true)
 webサイトにアクセスすると認証画面が表示される
 下の方にサーバー名とバージョンがあるので検索してみる
 ![[Pasted image 20230824061130.png]]
@@ -11,9 +10,9 @@ https://github.com/FredBrave/CVE-2022-46169-CACTI-1.2.22 が見つかるので
 
 ルートディレクトリにいくと「entrypointo.sh」という謎のスクリプトがあるので確認してみる。
 
-![[Pasted image 20230825053754.png]]
+![Pasted image 20230825053754.png](https://github.com/ma1a9/HTB/blob/main/HTB/Pasted%20image%2020230825053754.png?raw=true)
 
-![[Pasted image 20230825053836.png]]
+![Pasted image 20230825053836.png](https://github.com/ma1a9/HTB/blob/main/HTB/Pasted%20image%2020230825053836.png?raw=true)
 
 mysqlに接続できそうなので接続してみる。
 
