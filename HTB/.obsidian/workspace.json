@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/joplin/OSCP_ Cheatsheet/LFI.md",
+                "file": "HTB-Zipping.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTB/joplin/OSCP_ Cheatsheet/LFI.md",
+                "file": "HTB-Zipping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTB/joplin/OSCP_ Cheatsheet/LFI.md",
+                "file": "HTB-Zipping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTB/joplin/OSCP_ Cheatsheet/LFI.md"
+                "file": "HTB-Zipping.md"
               }
             }
           },
@@ -240,6 +240,11 @@
   },
   "active": "aa8f743586e9077b",
   "lastOpenFiles": [
+    "KeePassXC.md",
+    "Maltrail v0.53.md",
+    "Pasted image 20230501221208.png",
+    "Pasted image 20230501220803.png",
+    "HTB/joplin/OSCP_ Cheatsheet/LFI.md",
     "HTB/joplin/OSCP_ Cheatsheet/crackmapexec.md",
     "HTB/joplin/OSCP_ Cheatsheet/evil-winrm  WinRM(5985_tcp).md",
     "HTB/joplin/OSCP_ Cheatsheet/DNS列挙.md",
@@ -263,8 +268,6 @@
     "Pasted image 20230908211503.png",
     "Pasted image 20230908211122.png",
     "Pasted image 20230908210514.png",
-    "Pasted image 20230908210045.png",
-    "Pasted image 20230908205727.png",
     "HTB/joplin/ierae_Cheatsheet/cheatsheet.md",
     "HTB/joplin/イエラエアカデミー/2 Web脆弱性の発見と悪用.md",
     "HTB-PC.md",
@@ -277,9 +280,6 @@
     "bash -i >& ",
     "HTB-Keeper.md",
     "HTB-Pilgrimage.md",
-    "git-dumper.md",
-    "ImageMagick.md",
-    "CVE-2023-32784.md",
     "HTB/無題のファイル.canvas",
     "Excalidraw",
     "HTB/joplin/Privilege Escalation/- Privilege Escalation for Windows/未確認 22577.crdownload",
