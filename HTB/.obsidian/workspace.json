@@ -1,0 +1,291 @@
+{
+  "main": {
+    "id": "dd30aa423f93fce5",
+    "type": "split",
+    "children": [
+      {
+        "id": "0962898f4dceae70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57bac19a23308af9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTB-Topology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "443e388a91c3ed03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTB/HTB_Command_CheatSheet/hydra.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8448652c65bcc08a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTB/joplin/OSCP_ Cheatsheet/SHELLの安定化.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "31f429e039511dfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTB-CozyHosting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb3113c6ab9a5507",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTB/Command.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e70a1b858c3bdec5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTB/Command.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76cffbefb3737f65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTB/joplin/OSCP_ Cheatsheet/LFI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5548e3a85916a6a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b7a148da8869415",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa8f743586e9077b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b6d34d2077d2f6b2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eae08c5077446c02",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "b4f74de28e18982b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6378335ab0d3600a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b962fda7397f3d66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a9488289c1893c4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "HTB/joplin/OSCP_ Cheatsheet/LFI.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0ef90b724ff46ab3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "HTB/joplin/OSCP_ Cheatsheet/LFI.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "75e3b0d5bdaa0dec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "41454e5631a8e16b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "HTB/joplin/OSCP_ Cheatsheet/LFI.md"
+              }
+            }
+          },
+          {
+            "id": "bf30c1e76e25229c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "aa8f743586e9077b",
+  "lastOpenFiles": [
+    "HTB/joplin/OSCP_ Cheatsheet/crackmapexec.md",
+    "HTB/joplin/OSCP_ Cheatsheet/evil-winrm  WinRM(5985_tcp).md",
+    "HTB/joplin/OSCP_ Cheatsheet/DNS列挙.md",
+    "HTB/joplin/OSCP_ Cheatsheet/keepass2john.md",
+    "HTB/joplin/OSCP_ Cheatsheet/9.4.4.3 ログファイルポイズニング.md",
+    "HTB/joplin/OSCP_ Cheatsheet/9.4.4.2 ローカルファイルインクルード（LFI)のエクスプロイト.md",
+    "HTB/joplin/OSCP_ Cheatsheet/SHELLの安定化.md",
+    "HTB/joplin/OSCP_ Cheatsheet/安定したリバーストンネルの作成.md",
+    "HTB-Zipping.md",
+    "HTB-CozyHosting.md",
+    "Excalidraw/HTB-Legacy.excalidraw.md",
+    "Excalidraw/HTB-granny.excalidraw.md",
+    "Excalidraw/HTB-Devel.excalidraw.md",
+    "Excalidraw/HTB-Bastard.excalidraw.md",
+    "Excalidraw/HTB_blackfeild.md",
+    "Pasted image 20230908212530.png",
+    "Pasted image 20230908212245.png",
+    "Pasted image 20230908212105.png",
+    "Pasted image 20230908211848.png",
+    "Pasted image 20230908211619.png",
+    "Pasted image 20230908211503.png",
+    "Pasted image 20230908211122.png",
+    "Pasted image 20230908210514.png",
+    "Pasted image 20230908210045.png",
+    "Pasted image 20230908205727.png",
+    "HTB/joplin/ierae_Cheatsheet/cheatsheet.md",
+    "HTB/joplin/イエラエアカデミー/2 Web脆弱性の発見と悪用.md",
+    "HTB-PC.md",
+    "HTB-Topology.md",
+    "HTB-MonitorsTwo.md",
+    "bash -i >& /dev/tcp/10.10.16.28/bash -c ‘bash -i >&.md",
+    "bash -i >& /dev/tcp/10.10.16.28",
+    "bash -i >& /dev/tcp",
+    "bash -i >& /dev",
+    "bash -i >& ",
+    "HTB-Keeper.md",
+    "HTB-Pilgrimage.md",
+    "git-dumper.md",
+    "ImageMagick.md",
+    "CVE-2023-32784.md",
+    "HTB/無題のファイル.canvas",
+    "Excalidraw",
+    "HTB/joplin/Privilege Escalation/- Privilege Escalation for Windows/未確認 22577.crdownload",
+    "HTB/joplin/_resources",
+    "HTB/joplin/Privilege Escalation/- Privilege Escalation for Windows",
+    "HTB/joplin/Privilege Escalation/- Privilege Escalation for Linux",
+    "HTB/joplin/Privilege Escalation"
+  ]
+}

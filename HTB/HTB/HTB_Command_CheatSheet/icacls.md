@@ -1,0 +1,2 @@
+ファイルのパーミッションを確認する
+icacls SPBestWarmUp.ps1
