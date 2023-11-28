@@ -1,6 +1,6 @@
 #### nmap
 (Pasted image 20230825054645.png)
-
+https://github.com/ma1a9/HTB/blob/main/HTB/Pasted%20image%2020230825054645.png?raw=true
 webサイトにアクセスすると認証画面が表示される
 下の方にサーバー名とバージョンがあるので検索してみる
 ![[Pasted image 20230824061130.png]]
