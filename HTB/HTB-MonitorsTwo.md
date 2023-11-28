@@ -12,7 +12,7 @@ https://github.com/FredBrave/CVE-2022-46169-CACTI-1.2.22 が見つかるので
 
 ![[Pasted image 20230825053754.png]]
 
-![[Pasted image 20230825053836.png]](https://github.com/ma1a9/HTB/blob/main/HTB/Pasted%20image%2020230825053836.png?raw=true)
+![Pasted image 20230825053836.png](https://github.com/ma1a9/HTB/blob/main/HTB/Pasted%20image%2020230825053836.png?raw=true)
 
 mysqlに接続できそうなので接続してみる。
 
