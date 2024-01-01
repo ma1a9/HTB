@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80.md",
+                "file": "walkthrough/HTB_blackfeild.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80.md",
+                "file": "walkthrough/HTB_blackfeild.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80.md",
+                "file": "walkthrough/HTB_blackfeild.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80.md"
+                "file": "walkthrough/HTB_blackfeild.md"
               }
             }
           },
@@ -216,13 +216,29 @@
   },
   "active": "aa8f743586e9077b",
   "lastOpenFiles": [
+    "images/Pasted.md",
+    "walkthrough/HTB_blackfeild.md",
+    "HTB/Excalidraw/msfvenom.md",
+    "HTB/Excalidraw/MS08_067_2018.py.md",
+    "HTB/Excalidraw/MS-17-010.md",
+    "HTB/Excalidraw/MS-08-067.md",
+    "80.md",
+    "images/Pasted image 20230908212530.png",
+    "images/Pasted image 20230908212245.png",
+    "images/Pasted image 20230908212105.png",
+    "images/Pasted image 20230908211848.png",
+    "images/Pasted image 20230908211619.png",
+    "images/Pasted image 20230908211503.png",
+    "images/Pasted image 20230908211122.png",
+    "images/Pasted image 20230908210514.png",
+    "images/Pasted image 20230908210045.png",
+    "images/Pasted image 20230908205727.png",
+    "images",
     "Watson.md",
     "drupalgeddon3.py.md",
     "davtest.md",
     "CVE-2014-6287.md",
-    "80.md",
     "Excalidraw/HTB-Bastard.excalidraw.md",
-    "walkthrough/HTB_blackfeild.md",
     "walkthrough/HTB-Legacy.excalidraw.md",
     "walkthrough/HTB-granny.excalidraw.md",
     "walkthrough/HTB-Devel.excalidraw.md",
@@ -237,22 +253,7 @@
     "ImageMagick.md",
     "git-dumper.md",
     "CVE-2023-32784.md",
-    "walkthrough/HTB-Zipping.md",
-    "walkthrough/HTB-Topology.md",
-    "walkthrough/HTB-Sau.md",
-    "walkthrough/HTB-Pilgrimage.md",
-    "walkthrough/HTB-PC.md",
     "walkthrough",
-    "HTB/_resources/Pasted image 20230404215233.png",
-    "HTB/_resources/Pasted image 20230404211529.png",
-    "pix/Pasted image 20230908212530.png",
-    "pix/Pasted image 20230908212245.png",
-    "pix/Pasted image 20230908212105.png",
-    "pix/Pasted image 20230908211848.png",
-    "pix/Pasted image 20230908211619.png",
-    "pix/Pasted image 20230908211503.png",
-    "pix/Pasted image 20230908211122.png",
-    "pix/Pasted image 20230908210514.png",
     "pix",
     "bash -i >& /dev/tcp/10.10.16.28",
     "bash -i >& /dev/tcp",
@@ -261,7 +262,6 @@
     "HTB/無題のファイル.canvas",
     "Excalidraw",
     "HTB/joplin/Privilege Escalation/- Privilege Escalation for Windows/未確認 22577.crdownload",
-    "HTB/joplin/_resources",
-    "HTB/joplin/Privilege Escalation/- Privilege Escalation for Windows"
+    "HTB/joplin/_resources"
   ]
 }
