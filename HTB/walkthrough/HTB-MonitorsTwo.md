@@ -1,8 +1,8 @@
 #### nmap
-![Pasted image 20230825054645.png](https://github.com/ma1a9/HTB/blob/main/HTB/Pasted%20image%2020230825054645.png?raw=true)
+![](/images/20230825054645.png)(https://github.com/ma1a9/HTB/blob/main/HTB/Pasted%20image%2020230825054645.png?raw=true)
 webサイトにアクセスすると認証画面が表示される
 下の方にサーバー名とバージョンがあるので検索してみる
-![[Pasted image 20230824061130.png]]
+![](20230824061130.png)
 「Cacti 1.2.22 exploit」で検索すると
 https://github.com/FredBrave/CVE-2022-46169-CACTI-1.2.22 が見つかるので
 ダウンロードして実行すると直ぐに初期シェルがとれる。

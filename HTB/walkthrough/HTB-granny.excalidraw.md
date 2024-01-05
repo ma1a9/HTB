@@ -166,7 +166,7 @@ Executes: http://10.10.10.15/DavTestDir_l8Qkwc/davtest_l8Qkwc.html ^Hw3Bx270
 
 
 # Embedded files
-e09cbd698fb9c6500ebfdf381f4a57eafcdc1263: [[Pasted Image 20230602055605_235.png]]
+e09cbd698fb9c6500ebfdf381f4a57eafcdc1263: [[../images/20230602055605_235.png]]
 
 %%
 # Drawing

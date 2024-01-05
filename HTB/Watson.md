@@ -32,15 +32,15 @@ Directory of c:\Windows\Microsoft.NET\Framework
 
 Visual Studio メニューに移動し、\[プロジェクト] -> \[Watson プロパティ] を開きます。 左側のメニューで「アプリケーション」が選択されていることを確認すると、「ターゲット フレームワーク」を設定できるようになります。
 
-![[Pasted image 20230527204751.png]]
+![[images/20230527204751.png]]
 
 ターゲットにインストールされている最新版なので、3.5に設定することにします。
 
 次に、Build -> Configuration Managerに進みます。ここで出力バイナリのアーキテクチャ（x86とx64）を設定します。systeminfoの出力から、x64プロセッサであることは覚えているが、OSはx86である：
 プラットフォームを x86 に変更します。
 
-![[Pasted image 20230527205250.png]]
+![[images/20230527205250.png]]
 では、「Build」→「Build Watson」と進みます。下のWindowに、こう表示されているはずです：
 
-![[Pasted image 20230527205412.png]]
+![[images/20230527205412.png]]
 そのパスに移動して、出力 exe のコピーを取得し、それを Kali ボックスに転送して smb フォルダーにドロップします。

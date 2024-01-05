@@ -103,7 +103,7 @@ PORT   STATE SERVICE
 ```
 
 webにアクセスをしてみる
-![[Pasted image 20230822223614.png]]
+![[../images/20230822223614.png]]
 
 nmapの結果から「.git」フォルダがあることが分かる
 「[[git-dumper]]」でファイルを取得する
@@ -113,11 +113,11 @@ https://github.com/arthaud/git-dumper　からダウンロード
 pip install -r requirements.txt
 ```
 
-![[Pasted image 20230822224022.png]]
+![[../images/20230822224022.png]]
 「login.php」からDBがわかる
-![[Pasted image 20230822224214.png]]
+![[../images/20230822224214.png]]
 「index.php」で「magick convert」コマンドを使っている
-![[Pasted image 20230822224738.png]]
+![[../images/20230822224738.png]]
 
 「magick convert」を検索すると[[ImageMagick]]のコマンドらいし
 
@@ -127,23 +127,23 @@ pip install -r requirements.txt
 >（参考）https://www.metabaseq.com/imagemagick-zero-days/
 
 https://github.com/Sybil-Scan/imagemagick-lfi-poc からファイルをダウンロードしてexploit.pngを作成する
-![[Pasted image 20230822230113.png]]
+![[../images/20230822230113.png]]
 作成された画像をアップロードすると縮小ファイルへのリンクが表示される
-![[Pasted image 20230822230221.png]]
+![[../images/20230822230221.png]]
 
 ファイルをダウンロードする
 ```
 wget http://pilgrimage.htb/shrunk/64a42359ca344.png
 ```
-![[Pasted image 20230822230306.png]]
+![[../images/20230822230306.png]]
 
 変換されたPNGファイルの内容を読み取る
-![[Pasted image 20230823055838.png]]
-![[Pasted image 20230823055847.png]]
+![[../images/20230823055838.png]]
+![[../images/20230823055847.png]]
 
 ↑のデータ部分をデコードするためにCyberChefを使う
-![[Pasted image 20230823055954.png]]
-![[Pasted image 20230823060013.png]]
+![[../images/20230823055954.png]]
+![[../images/20230823060013.png]]
 
 「emily」とゆうユーザーがいることが分かる
 

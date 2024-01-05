@@ -226,7 +226,7 @@ nt authority\system ^kpvhdThq
 
 
 # Embedded files
-4ac71958b18b8d0e1370d5087cd78179837b8007: [[Pasted Image 20230511220638_744.png]]
+4ac71958b18b8d0e1370d5087cd78179837b8007: [[../images/20230511220638_744.png]]
 
 %%
 # Drawing

@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "walkthrough/HTB_blackfeild.md",
+                "file": "walkthrough/HTB-MonitorsTwo.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "walkthrough/HTB_blackfeild.md",
+                "file": "walkthrough/HTB-MonitorsTwo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "walkthrough/HTB_blackfeild.md",
+                "file": "walkthrough/HTB-MonitorsTwo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "walkthrough/HTB_blackfeild.md"
+                "file": "walkthrough/HTB-MonitorsTwo.md"
               }
             }
           },
@@ -214,36 +214,37 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "76cffbefb3737f65",
+  "active": "aa8f743586e9077b",
   "lastOpenFiles": [
-    "images/Pasted Image 20230525055644_920.png",
+    "walkthrough/HTB-Legacy.excalidraw.md",
+    "walkthrough/HTB-Keeper.md",
+    "walkthrough/HTB-granny.excalidraw.md",
+    "walkthrough/HTB-Devel.excalidraw.md",
+    "walkthrough/HTB-CozyHosting.md",
+    "walkthrough/HTB-Bastard.excalidraw.md",
     "walkthrough/HTB_blackfeild.md",
+    "images/20230823060013.png",
+    "images/20230908212530.png",
+    "images/20230908212245.png",
+    "images/20230908212105.png",
+    "images/20230908211848.png",
+    "images/20230908211619.png",
+    "images/20230908211503.png",
+    "images/20230908211122.png",
+    "images/20230908210514.png",
+    "images/20230908210045.png",
     "images/Pasted.md",
-    "images/Pasted image 20230501220803.png",
     "HTB/Excalidraw/msfvenom.md",
     "HTB/Excalidraw/MS08_067_2018.py.md",
     "HTB/Excalidraw/MS-17-010.md",
     "HTB/Excalidraw/MS-08-067.md",
     "80.md",
-    "images/Pasted image 20230908212530.png",
-    "images/Pasted image 20230908212245.png",
-    "images/Pasted image 20230908212105.png",
-    "images/Pasted image 20230908211848.png",
-    "images/Pasted image 20230908211619.png",
-    "images/Pasted image 20230908211503.png",
-    "images/Pasted image 20230908211122.png",
-    "images/Pasted image 20230908210514.png",
-    "images/Pasted image 20230908210045.png",
     "images",
     "Watson.md",
     "drupalgeddon3.py.md",
     "davtest.md",
     "CVE-2014-6287.md",
     "Excalidraw/HTB-Bastard.excalidraw.md",
-    "walkthrough/HTB-Legacy.excalidraw.md",
-    "walkthrough/HTB-granny.excalidraw.md",
-    "walkthrough/HTB-Devel.excalidraw.md",
-    "walkthrough/HTB-Bastard.excalidraw.md",
     "Excalidraw/HTB_blackfeild.md",
     "request-baskets Version1.21.md",
     "puutygen.md",
@@ -252,7 +253,6 @@
     "KeePassXC.md",
     "keepass.md",
     "ImageMagick.md",
-    "git-dumper.md",
     "walkthrough",
     "pix",
     "bash -i >& /dev/tcp/10.10.16.28",
