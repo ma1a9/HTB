@@ -59,9 +59,11 @@
             "id": "76cffbefb3737f65",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "HTB/_resources/4cab77b9c0d1dd2ce97b0d18b11dafd1.png"
+                "file": "walkthrough/HTB_blackfeild.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -140,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTB/_resources/4cab77b9c0d1dd2ce97b0d18b11dafd1.png",
+                "file": "walkthrough/HTB_blackfeild.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTB/_resources/4cab77b9c0d1dd2ce97b0d18b11dafd1.png",
+                "file": "walkthrough/HTB_blackfeild.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTB/_resources/4cab77b9c0d1dd2ce97b0d18b11dafd1.png"
+                "file": "walkthrough/HTB_blackfeild.md"
               }
             }
           },
@@ -214,6 +216,7 @@
   },
   "active": "76cffbefb3737f65",
   "lastOpenFiles": [
+    "HTB/_resources/4cab77b9c0d1dd2ce97b0d18b11dafd1.png",
     "HTB/Excalidraw/MS-08-067.md",
     "HTB/Excalidraw/MS-17-010.md",
     "HTB/Excalidraw/MS08_067_2018.py.md",
@@ -239,7 +242,6 @@
     "walkthrough/HTB-Pilgrimage.md",
     "walkthrough/HTB-PC.md",
     "walkthrough/HTB-MonitorsTwo.md",
-    "walkthrough/HTB-Legacy.excalidraw.md",
     "images/20230823060013.png",
     "images/20230908212530.png",
     "images/20230908212245.png",
