@@ -104,7 +104,7 @@ PORT   STATE SERVICE
 ```
 
 webにアクセスをしてみる
-![](/images/20230822223614.png)
+![](../images/20230822223614.png)
 
 nmapの結果から「.git」フォルダがあることが分かる
 「[[git-dumper]]」でファイルを取得する
@@ -114,11 +114,11 @@ https://github.com/arthaud/git-dumper　からダウンロード
 pip install -r requirements.txt
 ```
 
-![](/images/20230822224022.png)
+![](../images/20230822224022.png)
 「login.php」からDBがわかる
-![](/images/20230822224214.png)
+![](../images/20230822224214.png)
 「index.php」で「magick convert」コマンドを使っている
-![](/images/20230822224738.png)
+![](../images/20230822224738.png)
 
 「magick convert」を検索すると[[ImageMagick]]のコマンドらいし
 
@@ -128,47 +128,47 @@ pip install -r requirements.txt
 >（参考）https://www.metabaseq.com/imagemagick-zero-days/
 
 https://github.com/Sybil-Scan/imagemagick-lfi-poc からファイルをダウンロードしてexploit.pngを作成する
-![](/images/20230822230113.png)
+![](../images/20230822230113.png)
 作成された画像をアップロードすると縮小ファイルへのリンクが表示される
-![](/images/20230822230221.png)
+![](../images/20230822230221.png)
 
 ファイルをダウンロードする
 ```
 wget http://pilgrimage.htb/shrunk/64a42359ca344.png
 ```
-![](/images/20230822230306.png)
+![](../images/20230822230306.png)
 
 変換されたPNGファイルの内容を読み取る
-![](/images/20230823055838.png)
-![](images/20230823055847.png)
+![](../images/20230823055838.png)
+![](../images/20230823055847.png)
 
 ↑のデータ部分をデコードするためにCyberChefを使う
-![](/images/20230823055954.png)
-![](/images/20230823060013.png)
+![](../images/20230823055954.png)
+![](../images/20230823060013.png)
 
 「emily」とゆうユーザーがいることが分かる
 
 同様に先ほど判明したDBのディレクトリからもデータを取得してみる
-![](/images/20230823060317.png)
+![](../images/20230823060317.png)
 
 作成されたexploit.pngファイルをアップロードし縮小ファイルをダウンロードする
 
-![](/images/20230823060421.png)
+![](../images/20230823060421.png)
 
 データ部分をCyberChefでデーコードするとユーザー名とパスワードが分かる
 
-![](/images/20230823060523.png)
-![](/images/20230823060530.png)
+![](../images/20230823060523.png)
+![](../images/20230823060530.png)
 
 >参考
 >このデータベースはsqliteであるのでsqlitebrowserで見ることもできる
 >https://sqlitebrowser.org/dl/ からダウンロードして使用できる
 
-![](/images/20230823061008.png)
+![](../images/20230823061008.png)
 
 取得できたユーザー名とパスワードでSSH接続する
 
-![](/images/20230823061055.png)
+![](../images/20230823061055.png)
 
 ### 特権昇格
 実行中のプロセスを確認
@@ -176,29 +176,29 @@ wget http://pilgrimage.htb/shrunk/64a42359ca344.png
 ps -aux
 ```
 
-![](/images/20230823205527.png)
+![](../images/20230823205527.png)
 
 怪しいシェルスクリプトが動いている
 
-![](/images/20230823205630.png)
+![](../images/20230823205630.png)
 
 binwalkを使用している事がわかるのでバージョンを確認する
-![](/images/20230823211254.png)
+![](../images/20230823211254.png)
 
 「binwalk 2.3.2 exploit」で検索するとすぐにExploitDBがみつかる
 searchsploitでも見つかる
 
-![](/images/20230823211609.png)
+![](../images/20230823211609.png)
 適当な画像を用意してエクスプロイトファイルを作成する
-![](/images/20230823212135.png)
+![](../images/20230823212135.png)
 作成されたbinwalk_exploit.pngをローカルシステムにアップロードする
 エクスプロイト画像を実行ディレクトリに配置する
 ```shell
 cp binwalk_exploit.png / var / www / pilgrimage.htb / shrunk/
 ```
 
-![](/images/20230823212937.png)
+![](../images/20230823212937.png)
 
 リスナーを起動しておくとリバースシェルが帰ってくる
 
-![](/images/20230823213220.png)
+![](../images/20230823213220.png)
